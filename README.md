@@ -4,7 +4,7 @@ This project was developed as part of the **GIVI Connected GenAI Program** and i
 
 ---
 
-## 🚀 Overview
+## Overview
 This chatbot uses the **Biomistral Large Language Model**, a domain-specialized medical LLM, to provide informative and safe responses to user queries.  
 The goal of the project is to explore how LLMs can be used in healthcare conversational systems, focusing on:
 
@@ -27,7 +27,7 @@ The chatbot prompts the model to ensure **no diagnosis**, **no prescriptions**, 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Since this is a single-file Colab project, the structure is simple:
 
 
@@ -40,7 +40,7 @@ The notebook includes:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Python**
 - **Google Colab**
 - **Biomistral LLM API**
